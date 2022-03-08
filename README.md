@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Akshay Kumar</h1>
+<h1 align="center">Hi 👋, I'm Akshay</h1>
 <h3 align="center">React developer</h3>
 
 - 🔭 I’m currently working on **MytaxHub**
