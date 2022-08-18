@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Akshay</h1>
 <h3 align="center">React developer</h3>
 
-- 🔭 I’m currently working on **MytaxHub**
+- 🔭 I’m currently working on **HRM SYSTEM**
 
-- 🌱 I’m currently learning **Next Js**
+- 🌱 I’m currently learning **Typescript**
 
-- 💬 Ask me about **React,Javascript**
+- 💬 Ask me about **React,Javascript, NExt.js**
 
 - 📫 How to reach me **akshayKmmr8@gmail.com**
 
